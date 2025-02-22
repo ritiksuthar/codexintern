@@ -1,0 +1,27 @@
+**📊 Data Insights from Sales Analysis**
+
+### 1️⃣ **Overall Sales Performance**
+- The average sales value is **₹505.98**, indicating that most products fall in the mid-range category.
+- Some categories, such as Electronics, have shown high sales figures.
+
+### 2️⃣ **Profit Analysis**
+- A **strong positive correlation** was observed between profit and sales, meaning that higher sales generally lead to higher profits.
+- Some categories showed high profitability even with lower sales.
+
+### 3️⃣ **Customer Rating Impact**
+- The highest sales and profits were recorded for products with **4+ ratings**.
+- Products with lower ratings experienced **less sales and profit**, suggesting that customer satisfaction influences sales.
+
+### 4️⃣ **Heatmap Observations**
+- **Sales & Profit** showed a **0.75+ positive correlation**, indicating that increased sales lead to higher profits.
+- **Quantity & Sales** also had a good correlation, meaning that products with higher order quantities tend to sell more.
+
+### 5️⃣ **Category-wise Performance**
+- **Books & Electronics** categories recorded the highest average sales and profits.
+- **Toys & Clothing** had lower sales but still showed satisfactory profitability.
+
+📌 **Conclusion**: 
+1. Focus on high-rated products to maximize profits.
+2. Review and implement promotional strategies for low-selling products.
+3. Analyze customer ratings and feedback to improve product offerings.
+
